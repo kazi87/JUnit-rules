@@ -1,0 +1,7 @@
+# Java class files
+*.class
+
+# Log Files
+*.log
+*.iml
+.idea
