@@ -11,7 +11,7 @@ import java.io.IOException;
 
 /**
  * Saves the registered data when a test failed.
- * The data is stored in 'target/failed-test-data' folder.
+ * The data is stored in 'target' folder.
  */
 public class SaveDataOnFailRule extends TestWatcher {
 
